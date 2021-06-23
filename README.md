@@ -1,4 +1,4 @@
-# My-Places
+# Share A Place
 
 Vanilla JavaScript My Places App To Share Your Location
 
